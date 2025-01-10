@@ -111,6 +111,7 @@ A curated list of awesome [Anki](https://github.com/dae/anki) add-ons, decks and
 ## Tools
 
 ### Browser extensions
+* [x-cod3r/Ai-Anki-Generator ![GitHub stars](https://img.shields.io/github/stars/x-cod3r/Ai-Anki-Generator.svg)](https://github.com/x-cod3r/Ai-Anki-Generator) - Ai based tool to automate the process of Anki deck creation, based on python and run on your local machine with ready to use compiled executable version.
 
 * [ninja33/anki-dict-helper ![GitHub stars](https://img.shields.io/github/stars/ninja33/anki-dict-helper.svg)](https://github.com/ninja33/anki-dict-helper) - Create Anki cards with Chrome extension automatically.
 
